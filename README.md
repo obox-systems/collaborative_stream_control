@@ -1,5 +1,11 @@
 # Collaborative Stream Control
 
+- [Collaborative Stream Control](#collaborative-stream-control)
+  - [Remote access to Blackmagic devices](#remote-access-to-blackmagic-devices)
+    - [Zerotier](#zerotier)
+    - [Nomachine](#nomachine)
+    - [Other](#other)
+
 ## Remote access to Blackmagic devices
 
 All required software installs and configurations for a full remote access to the machine with Blackmagic
